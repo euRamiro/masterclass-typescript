@@ -4,3 +4,7 @@
 
 
 Primeiro contato com typescript.
+
+
+- ## Na pasta backend execute yarn dev:server
+- ### para executar o backend em http://localhost:3333/
